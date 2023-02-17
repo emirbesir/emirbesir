@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">Currently a software engineering student</h3>
+<h3 align="center">A software engineering student</h3>
 <p>From Turkey<br>- 🌱 I’m currently learning <strong>C# and Unity</strong><br>- 📫 How to reach me <a href="mailto:emirbesirx@gmail.com"><strong>emirbesirx@gmail.com</strong></a></p>
 <h3 align="left">Contact:</h3>
 <p align="left">
