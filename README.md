@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">A software engineering student</h3>
-<p>From Turkey<br>- 🌱 I’m currently learning <strong>C# and Unity</strong><br>- 📫 How to reach me <a href="mailto:emirbesirx@gmail.com"><strong>emirbesirx@gmail.com</strong></a></p>
-<h3 align="left">Contact:</h3>
-<p align="left">
+# Hi! I'm Emir
 
-<a href="https://twitter.com/emirbesirx" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165611-1537dc49-306e-456e-b627-306fec07117e.png" alt="emirbesirx" width="60"></a>
-<a href="https://www.linkedin.com/in/emirbesir" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165581-1b36737f-bf9e-43f5-a897-d6208c3e51a8.png" alt="emirbesir" width="60"></a>
-<a href="https://calippooo.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/app-icon.svg" alt="calippooo" width="60"></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p><a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <br><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="60" height="60"></a>&nbsp;<a href="https://www.w3schools.com/cpp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="CPP" width="60" height="60"></a>&nbsp;<a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="CSharp" width="60" height="60"> <br></a> </p>
-<p><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"> </a></p>
+🐍 I’m currently learning Python <br>
+
+### Contact:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emir.bsir/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%25230077B5.svg?logo=LinkedIn&logoColor=%230077B5&labelColor=%23f5f5f5&color=%23f5f5f5)](https://www.linkedin.com/in/emirbesir/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emirbesirx) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCPIoklJ0pYEq0kyIVb_TZFg)
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emirbesir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=emirbesir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirbesir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=emirbesir&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!-- Emir Besir -->
