@@ -6,6 +6,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emirbesirx) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%25230077B5.svg?logo=LinkedIn&logoColor=%230077B5&labelColor=%23f5f5f5&color=%23f5f5f5)](https://www.linkedin.com/in/emirbesir/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCPIoklJ0pYEq0kyIVb_TZFg)
+[![itch.io](https://img.shields.io/badge/itch.io-red?logo=Itch.io&logoColor=Red&labelColor=%23000&color=%23000)](https://calippooo.itch.io/)
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
