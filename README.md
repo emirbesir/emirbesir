@@ -22,9 +22,9 @@
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; gap: 8px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Emir's GitHub stats">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=emirbesir&theme=tokyonight&hide_border=true" alt="Emir's GitHub streaks">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Emir's Most Used Languages">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Emir's GitHub stats">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=emirbesir&theme=tokyonight&hide_border=true" alt="Emir's GitHub streaks">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Emir's Most Used Languages">
 </div>
 
 ### Contact:
