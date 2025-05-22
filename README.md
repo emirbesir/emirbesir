@@ -21,11 +21,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; gap: 8px;">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Emir's GitHub stats">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=emirbesir&theme=tokyonight&hide_border=true" alt="Emir's GitHub streaks">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Emir's Most Used Languages">
-</div>
+<p align="center">
+    <img width="320" src="https://github-readme-stats.vercel.app/api?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Emir's GitHub stats"/>
+    <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=emirbesir&theme=tokyonight&hide_border=true" alt="Emir's GitHub streaks"/>
+    <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Emir's Most Used Languages"/>
+</p>
 
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%25230077B5.svg?logo=LinkedIn&logoColor=%230077B5&labelColor=%23f5f5f5&color=%23f5f5f5)](https://www.linkedin.com/in/emirbesir/) 
