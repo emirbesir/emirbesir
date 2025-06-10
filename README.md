@@ -7,30 +7,30 @@ _Gameplay Programmer · Unity Enthusiast · Third‑year Software Engineering St
 
 _Istanbul, Türkiye_
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="64" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/emirbesir/) 
-[<img src="https://cdn.simpleicons.org/itchdotio" height="64" alt="ItchIO" title="ItchIO"/>](https://calippooo.itch.io/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/emirbesir/) 
+[<img src="https://cdn.simpleicons.org/itchdotio" height="48" alt="ItchIO" title="ItchIO"/>](https://calippooo.itch.io/)
 
 ### 🔧 Tech Stack
 
 
 **Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="64" alt="C" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="64" alt="C#" title="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="64" alt="Java" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="64" alt="Python" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="64" alt="GDScript" title="GDScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" alt="C#" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="48" alt="GDScript" title="GDScript"/>
 
 **Game Engines**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="64" alt="Godot Engine" title="Godot Engine"/>
-<img src="https://cdn.simpleicons.org/unity/white" height="64" alt="Unity" title="Unity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="48" alt="Godot Engine" title="Godot Engine"/>
+<img src="https://cdn.simpleicons.org/unity/white" height="48" alt="Unity" title="Unity"/>
 
 **DevOps**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="64" alt="Git" title="Git"/>
-<img src="https://cdn.simpleicons.org/github/white" height="64" alt="GitHub" title="GitHub"/>
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="64" alt="GitHub Actions" title="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" title="Git"/>
+<img src="https://cdn.simpleicons.org/github/white" height="48" alt="GitHub" title="GitHub"/>
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="48" alt="GitHub Actions" title="GitHub Actions"/>
 
 ### 📊 GitHub Stats
 
