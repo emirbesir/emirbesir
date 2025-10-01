@@ -3,7 +3,7 @@
     
 # Hi there, I'm Emir 👋
 
-_Gameplay Programmer · Unity Enthusiast · Third‑year Software Engineering Student_
+_Game Developer · Fourth‑year Software Engineering Student_
 
 _Istanbul, Türkiye_
 
@@ -17,7 +17,6 @@ _Istanbul, Türkiye_
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C" title="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" alt="C#" title="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="48" alt="GDScript" title="GDScript"/>
 
