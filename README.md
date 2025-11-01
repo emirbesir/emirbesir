@@ -20,9 +20,8 @@ _Istanbul, Türkiye_
 
 ### 📊 GitHub Stats
 
-<img width="256" src="https://github-readme-stats.vercel.app/api?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Emir's GitHub stats"/>
-<img width="256" src="https://github-readme-streak-stats.herokuapp.com/?user=emirbesir&theme=tokyonight&hide_border=true" alt="Emir's GitHub streaks"/>
-<img width="256" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Emir's Most Used Languages"/>
+![emirbesir's Stats](https://github-readme-stats.vercel.app/api?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![emirbesir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirbesir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 <!-- Emir Besir -->
