@@ -20,7 +20,7 @@ Zenject dependency injection, signal-driven (R3) architecture, and custom editor
 
 | Project | What it is | Achievement | Links |
 | --- | --- | --- | --- |
-| **Check & Defend** | 2D chess tower-defense, defend your king one wave, storm the enemy's the next | 🥇 1st place, Game jam entry | [itch.io](https://yunusturna.itch.io/checkanddefend) · [video](https://www.youtube.com/watch?v=a3mRolhcuOs) |
+| **Check & Defend** | 2D chess tower-defense, defend your king one wave, storm the enemy's the next | 🥇 1st place, Yıldız JAM 2026 | [itch.io](https://yunusturna.itch.io/checkanddefend) · [video](https://www.youtube.com/watch?v=a3mRolhcuOs) |
 | **Less is More** | 2D puzzle-platformer, every death leaves your corpse as a solid platform | 🥇 1st place, BTK Academy Advanced Unity Bootcamp jam | [itch.io](https://calippooo.itch.io/less-is-more) · [repo](https://github.com/emirbesir/less-is-more) · [video](https://www.youtube.com/watch?v=4ptHAemZCW4) |
 | **Raze Maze** | 3D puzzle-platformer, a rat using a sonar-like "sniff" to light a pitch-black maze | Top 20/255, StartGate Jam 2025 | [itch.io](https://calippooo.itch.io/raze-maze) · [repo](https://github.com/emirbesir/raze-maze) · [video](https://www.youtube.com/watch?v=SFIbsuxqi8E) |
 | **The Last Jack** | 3D platformer, built solo | #10 Mechanics of 286, Gamedev.tv Halloween Jam 2025 | [repo](https://github.com/emirbesir/the-last-jack) |
