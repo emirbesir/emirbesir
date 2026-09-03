@@ -10,11 +10,8 @@ _Unity Game Developer · BSc in Software Engineering_
 
 _Istanbul, Türkiye_
 
-Building gameplay features for a production mobile Unity title at Arvis Games.<br>
+Working on combat and animation systems for [UFC: KO](https://apps.apple.com/us/app/ufc-ko/id6781219228), a licensed mobile title at Arvis Games, published by Rollic.<br>
 Zenject dependency injection, signal-driven (R3) architecture, and custom editor tooling.
-
-<img src="https://github-readme-stats.vercel.app/api?username=emirbesir&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbesir&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
 
 ### Featured Projects
 
@@ -39,8 +36,6 @@ Zenject dependency injection, signal-driven (R3) architecture, and custom editor
 <img src="https://img.shields.io/badge/DOTween-ff8c00?style=flat-square" alt="DOTween"/>
 <img src="https://img.shields.io/badge/Shader%20Graph-8a2be2?style=flat-square" alt="Shader Graph"/>
 <img src="https://img.shields.io/badge/Object%20Pooling-555555?style=flat-square" alt="Object Pooling"/>
-
-
 
 <!-- Emir Besir -->
 </div>
