@@ -10,7 +10,7 @@ _Unity Game Developer · BSc in Software Engineering_
 
 _Istanbul, Türkiye_
 
-Working on combat and animation systems for [UFC: KO](https://apps.apple.com/us/app/ufc-ko/id6781219228), a licensed mobile title at Arvis Games, published by Rollic.<br>
+Working on combat and animation systems for [UFC: Manager](https://apps.apple.com/us/app/ufc-manager/id6781219228), a licensed mobile title at Arvis Games, published by Rollic.<br>
 Zenject dependency injection, signal-driven (R3) architecture, and custom editor tooling.
 
 ### Featured Projects
