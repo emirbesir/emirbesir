@@ -10,8 +10,8 @@ _Unity Game Developer · BSc in Software Engineering_
 
 _Istanbul, Türkiye_
 
-Working on combat and animation systems for [UFC: Manager](https://apps.apple.com/us/app/ufc-manager/id6781219228), a licensed mobile title at Arvis Games, published by Rollic.<br>
-Zenject dependency injection, signal-driven (R3) architecture, and custom editor tooling.
+Main gameplay developer on an unannounced mobile title at Arvis Games. Previously built the combat and animation systems of [UFC: Manager](https://apps.apple.com/us/app/ufc-manager/id6781219228), a licensed mobile title published by Rollic.<br>
+AI-native workflow with Claude Code and Codex; Zenject, R3 and custom editor tooling.
 
 ### Featured Projects
 
@@ -30,6 +30,8 @@ Zenject dependency injection, signal-driven (R3) architecture, and custom editor
 <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" title="GitHub"/>
 <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" title="GitHub Actions"/>
 <br>
+<img src="https://img.shields.io/badge/Claude%20Code-d97757?style=flat-square" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Codex-10a37f?style=flat-square" alt="Codex"/>
 <img src="https://img.shields.io/badge/Zenject-4b6bfc?style=flat-square" alt="Zenject"/>
 <img src="https://img.shields.io/badge/UniTask-2ea44f?style=flat-square" alt="UniTask"/>
 <img src="https://img.shields.io/badge/R3-d04a37?style=flat-square" alt="R3 Reactive Extensions"/>
